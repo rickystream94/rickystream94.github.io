@@ -1,0 +1,137 @@
+/* HEADER */
+
+.navbar-header img {
+	width: 200px;
+	height: 40px;
+}
+
+/* DATASET */
+.single-service ul {
+	text-align: left;
+}
+
+/* DROPDOWN MENU */
+.dropdown .dropdown-menu{
+    display: block;
+    opacity: 0;
+    -moz-transition:    all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -o-transition:      all 500ms ease;
+    -ms-transition:     all 500ms ease;
+    transition:         all 500ms ease;
+    background-color: rgba(101, 87, 0, 0.7);
+}
+
+li.active ul a, li.active ul a:focus {
+	background-color: transparent !important;
+	box-shadow: none !important;
+}
+
+li.active ul a:hover {
+	background-color: #9a3700 !important;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    opacity: 1;
+}
+
+.nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+    margin-top: 5px;
+}
+
+/* ACCORDION PANELS */
+.panel-default>.panel-heading {
+	background-color: #ffc68f;
+}
+
+.panel-default>.panel-heading:hover {
+	box-shadow: inset 0 0 0 2px #c7af03;
+}
+
+.panel-default .panel-body {
+	background-color: #ffe9c2;
+}
+
+.panel-heading p {
+	font-size: 20px;
+}
+
+/* TEXT MINING SECTION */
+#textmining {
+  background-image: url("../images/textmining/bg.jpg");
+  color:#fff;
+  text-align:center;
+  background-color:	#0A0A13;
+}
+
+.textmining {
+	display:block;
+	overflow:hidden;
+	margin-top:50px
+}
+
+#textmining h2{
+  color: #fff;
+  border-color: #fff;
+  margin-bottom:35px
+}
+
+/* WORDCLOUDS FILTER */
+#wordclouds {
+	background-color: #f6f6f6;
+}
+
+#wordclouds 
+.portfolio-filter {
+  margin-bottom:40px;
+  margin-top:10px;
+}
+
+#wordclouds 
+.portfolio-filter li {
+  display: inline-block;
+}
+
+#wordclouds 
+.portfolio-filter li a:hover, 
+#wordclouds 
+.portfolio-filter li a:focus,
+#wordclouds 
+.portfolio-filter li a:active , 
+#wordclouds 
+.portfolio-filter li .active{
+	border: 1px solid #fc7700;
+	color: #686868;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	opacity: 1;
+}
+
+#wordclouds 
+.portfolio-filter li a {
+	color: #686868;
+	font-size: 16px;
+	text-transform: uppercase;
+	border: none;
+	background: rgba(67, 72, 78, 0);
+	opacity: .8;
+	border: 1px solid rgba(252, 119, 0, 0);
+	border-radius: inherit;
+}
+
+/* POPULATION */
+
+#population {
+	background-color: #f6f6f6;
+}
+
+/* BOOKS & MOVIES */
+#booksmovies {
+	background-color: #ffece3;
+}
+
+/*  NOTEBOOK */
+#notebook {
+	background-color: #ffffd6;
+}
