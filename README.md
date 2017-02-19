@@ -1,4 +1,4 @@
-#Riccardo Cannistrà: Personal Repository
+# Riccardo Cannistrà: Personal Repository
 Hi all, I'll be hosting in this repository some personal projects, websites and whatever might be useful!
 
 Enjoy!
