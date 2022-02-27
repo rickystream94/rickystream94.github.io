@@ -1,8 +1,13 @@
-# Riccardo Cannistrà: Personal Repository
-Hi all, I'll be hosting in this repository some personal projects, websites and whatever might be useful!
+# Purpose
 
-Enjoy!
+I'll be using this repository as a personal home page to:
 
-Current content:
+- Host project related websites;
+- Host any sort of script, coding experiment and similar that didn't grow enough to deserve a standalone repo (yet) :)
 
-1. **Social Graphs & Interactions Project Website**: the official website of this course, held by the Technical University of Denmark (DTU). The website is meant to be a way to present in a user friendly way some technical concepts about networks and text mining. The topic of the project is *The Lord of the Rings*, so it might be interesting to have a look! Please follow directly [this link](https://rickystream94.github.io/social_graphs/) to visit the website!
+# Projects
+
+## Social Graphs & Interactions - Final Assignment Website
+
+- [Website URL](https://rickystream94.github.io/social_graphs/)
+- Description: The *Social Graphs & Interactions* was a course offered by the Technical University of Denmark (DTU). As part of the final hand in, students were asked to build a website to showcase, in a user friendly way, technical concepts about networks and natural language processing. Each group had chosen a specific topic and dataset to work on, and my project focused on the universe of characters and places from *The Lord of the Rings*.
