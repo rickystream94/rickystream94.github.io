@@ -1,0 +1,3 @@
+[submodule "static-app/themes/LoveIt"]
+	path = static-app/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
