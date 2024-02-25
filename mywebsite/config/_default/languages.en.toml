@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Richmond Web"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Personal website of Riccardo Cannistrà"
+  copyright = "&copy; { year } Riccardo Cannistrà"
+
+[author]
+  name = "Riccardo Cannistrà"
+  image = "img/author.png"
+  headline = "Software Engineer on a journey to become 1% better every day. 🚀"
+  bio = "I'm a Software Engineer working at Microsoft Development Center Copenhagen, in the city where I also currently live."
+  links = [
+    { email = "mailto:rickystream94@gmail.com" },
+    { link = "https://richmondweb.it/" },
+    { linkedin = "https://linkedin.com/in/riccardo-cannistra" },
+    { youtube = "https://youtube.com/stream94" },
+    { github = "https://github.com/rickystream94" },
+    { facebook = "https://facebook.com/riccardo.cannistra17" },
+    { instagram = "https://instagram.com/xrichmondx94" },
+    { x-twitter = "https://twitter.com/rickystream94" },
+    { steam = "https://steamcommunity.com/id/rickystream94/" }
+  ]

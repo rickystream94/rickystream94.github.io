@@ -1,3 +1,4 @@
-[submodule "static-app/themes/LoveIt"]
-	path = static-app/themes/LoveIt
-	url = https://github.com/dillonzq/LoveIt.git
+[submodule "mywebsite/themes/blowfish"]
+	path = mywebsite/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
