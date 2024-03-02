@@ -8,7 +8,7 @@ title = "Richmond Web"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
+  logo = "img/logo_with_text_alt.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal website of Riccardo Cannistrà"
   copyright = "&copy; { year } Riccardo Cannistrà"
@@ -17,7 +17,7 @@ title = "Richmond Web"
   name = "Riccardo Cannistrà"
   image = "img/author.jpg"
   headline = "Software Engineer on a journey to become 1% better every day. 🚀"
-  bio = "I'm a Software Engineer working at Microsoft Development Center Copenhagen, in the city where I also currently live."
+  bio = "is a Software Engineer working at Microsoft Development Center Copenhagen, in the city where he also lives since 2016. Born and raised in Milan (Italy), he enjoys sharing on YouTube his memorable experiences around the world and writing inspiring stories on this blog."
   links = [
     { email = "mailto:rickystream94@gmail.com" },
     { link = "https://richmondweb.it/" },
@@ -27,5 +27,6 @@ title = "Richmond Web"
     { facebook = "https://facebook.com/riccardo.cannistra17" },
     { instagram = "https://instagram.com/xrichmondx94" },
     { x-twitter = "https://twitter.com/rickystream94" },
+    { microsoft = "https://account.xbox.com/en-US/profile?gamertag=XxRichmond94xX" },
     { steam = "https://steamcommunity.com/id/rickystream94/" }
   ]

@@ -9,4 +9,8 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+# Hugo and Blowfish theme
 public/
+resources/
+mywebsite/resources/

@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Home"
-  pageRef = "/"
+  name = "About"
+  pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Skills"
+  pageRef = "skills"
   weight = 20
 
 [[main]]
@@ -29,6 +29,36 @@
   name = "Projects"
   pageRef = "projects"
   weight = 40
+
+[[main]]
+  pre = "linkedin"
+  identifier = "linkedin"
+  url = "https://linkedin.com/in/riccardo-cannistra"
+  weight = 50
+
+[[main]]
+  pre = "github"
+  identifier = "github"
+  url = "https://github.com/nunocoracao/blowfish"
+  weight = 60
+
+[[main]]
+  pre = "youtube"
+  identifier = "youtube"
+  url = "https://youtube.com/stream94"
+  weight = 70
+
+[[main]]
+  pre = "facebook"
+  identifier = "facebook"
+  url = "https://facebook.com/riccardo.cannistra17"
+  weight = 80
+
+[[main]]
+  pre = "instagram"
+  identifier = "instagram"
+  url = "https://instagram.com/xrichmondx94"
+  weight = 90
 
 
 # -- Footer Menu --

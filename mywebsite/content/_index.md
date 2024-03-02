@@ -1,0 +1,1 @@
+Sample homepage text to display below author info.

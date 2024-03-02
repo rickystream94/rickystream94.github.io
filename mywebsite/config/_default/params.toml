@@ -5,21 +5,21 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "marvel"
+colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = true
 
-defaultBackgroundImage = "img/20200704_092053.jpg" # used as default for background images 
-defaultFeaturedImage = "img/logo.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/20200704_092053.jpg" # used as default for background images
+defaultFeaturedImage = "img/logo.png" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -54,7 +54,7 @@ smartTOCHideUnfocusedChildren = false
   showDateUpdated = false
   showAuthor = true
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -70,15 +70,15 @@ smartTOCHideUnfocusedChildren = false
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = true
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -97,22 +97,22 @@ smartTOCHideUnfocusedChildren = false
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = true
+  cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
-  showTableOfContents = true
-  groupByYear = false
+  showTableOfContents = false
+  groupByYear = true
   cardView = true
   cardViewScreenWidth = false
 
