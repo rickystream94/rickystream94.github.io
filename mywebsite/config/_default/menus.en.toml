@@ -21,13 +21,13 @@
   weight = 20
 
 [[main]]
-  name = "Highlights"
-  pageRef = "posts"
+  name = "Projects"
+  pageRef = "projects"
   weight = 30
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Blog"
+  pageRef = "blog"
   weight = 40
 
 [[main]]
@@ -45,7 +45,7 @@
 [[main]]
   pre = "youtube"
   identifier = "youtube"
-  url = "https://youtube.com/stream94"
+  url = "https://www.youtube.com/@rickystream94"
   weight = 70
 
 [[main]]

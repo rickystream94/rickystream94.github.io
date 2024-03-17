@@ -12,7 +12,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["posts"]
+mainSections = ["blog"]
 # robots = ""
 
 disableImageOptimization = false
@@ -23,7 +23,7 @@ defaultFeaturedImage = "img/logo.png" # used as default for featured images in a
 
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = false
+smartTOCHideUnfocusedChildren = true
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
@@ -41,7 +41,7 @@ smartTOCHideUnfocusedChildren = false
   showRecent = true
   showRecentItems = 10
   showMoreLink = true
-  showMoreLinkDest = "/posts"
+  showMoreLinkDest = "/blog"
   cardView = true
   cardViewScreenWidth = true
   layoutBackgroundBlur = true # only used when layout equals background
@@ -60,7 +60,6 @@ smartTOCHideUnfocusedChildren = false
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
