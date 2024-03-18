@@ -20,6 +20,7 @@ heroStyle: "background"
     <th>Org</th>
     <th>Role</th>
     <th>Dates</th>
+    <th>Location</th>
   </tr>
 </thead>
 <tbody>
@@ -29,6 +30,7 @@ heroStyle: "background"
     <td rowspan="3">Dynamics 365 Business Central</td>
     <td>Software Engineer 2</td>
     <td>03/2022 - Present</td>
+    <td rowspan="4">Copenhagen, DK</td>
   </tr>
   <tr>
     <td>Software Engineer 1</td>
@@ -59,6 +61,7 @@ heroStyle: "background"
     <th>Link</th>
     <th>Degree</th>
     <th>Dates</th>
+    <th>Location</th>
   </tr>
 </thead>
 <tbody>
@@ -67,12 +70,14 @@ heroStyle: "background"
     <td><a href="https://www.dtu.dk" target="blank">Danmarks Tekniske Universitet</a></td>
     <td>Digital Media Engineering, Data Science & Big Data</td>
     <td>08/2016 - 02/2019</td>
+    <td>Copenhagen, DK</td>
   </tr>
   <tr>
     <td><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/polimi_logo.png" class="customLogo"/></td>
     <td><a href="https://www.polimi.it/" target="blank">Politecnico di Milano</a></td>
     <td>Engineering of Computing Systems</td>
     <td>09/2013 - 07/2016</td>
+    <td>Milano, IT</td>
   </tr>
 </tbody>
 </table>
@@ -81,61 +86,46 @@ heroStyle: "background"
 
 ## Skills 🤹‍♂️
 
-### Software Development
-
-{{< keywordList >}}
+| Field | Technologies / Skill set |
+|-------|--------------|
+|   Software Development    |      {{< keywordList >}}
 {{< keyword icon="microsoft" >}} .NET {{< /keyword >}}
 {{< keyword icon="microsoft" >}} ASP.NET {{< /keyword >}}
 {{< keyword icon="java" >}} Java {{< /keyword >}}
-{{< keyword icon="python" >}} Python {{< /keyword >}}
 {{< keyword >}} C {{< /keyword >}}
 {{< keyword icon="android" >}} Android {{< /keyword >}}
 {{< keyword icon="git" >}} Git {{< /keyword >}}
 {{< keyword icon="microsoft" >}} CI/CD (Azure DevOps) {{< /keyword >}}
 {{< keyword icon="unity" >}} Unity {{< /keyword >}}
-{{< /keywordList >}}
-
-### Cloud Computing
-
-{{< keywordList >}}
+{{< /keywordList >}}        |
+|   Cloud Computing    |      {{< keywordList >}}
 {{< keyword icon="microsoft" >}} Microsoft Azure {{< /keyword >}}
 {{< keyword icon="cloud-solid" >}} Microservices Architecture {{< /keyword >}}
 {{< keyword icon="cloud-solid" >}} Azure Service Fabric {{< /keyword >}}
 {{< keyword icon="lock" >}} Cloud Security {{< /keyword >}}
-{{< /keywordList >}}
-
-### Data Science & AI
-
-{{< keywordList >}}
+{{< /keywordList >}}        |
+|   Data Science & AI    |      {{< keywordList >}}
+{{< keyword icon="python" >}} Python {{< /keyword >}}
 {{< keyword >}} Natural Language Processing {{< /keyword >}}
 {{< keyword >}} Network Analysis {{< /keyword >}}
 {{< keyword >}} Machine Learning {{< /keyword >}}
 {{< keyword >}} Data Analysis {{< /keyword >}}
 {{< keyword >}} Artificial Intelligence {{< /keyword >}}
-{{< /keywordList >}}
-
-### Databases & Big Data
-
-{{< keywordList >}}
+{{< /keywordList >}}        |
+|   Databases & Big Data    |      {{< keywordList >}}
 {{< keyword icon="microsoft" >}} Microsoft SQL Server {{< /keyword >}}
 {{< keyword >}} Pandas DataFrames {{< /keyword >}}
 {{< keyword >}} Neo4j {{< /keyword >}}
 {{< keyword >}} MongoDB {{< /keyword >}}
 {{< keyword >}} MapReduce {{< /keyword >}}
 {{< keyword >}} Apache Spark {{< /keyword >}}
-{{< /keywordList >}}
-
-### Scripting
-
-{{< keywordList >}}
+{{< /keywordList >}}        |
+|   Scripting    |      {{< keywordList >}}
 {{< keyword icon="microsoft" >}} PowerShell {{< /keyword >}}
 {{< keyword icon="linux" >}} Linux Bash {{< /keyword >}}
-{{< /keywordList >}}
-
-### IDE
-
-{{< keywordList >}}
+{{< /keywordList >}}        |
+|   IDE    |      {{< keywordList >}}
 {{< keyword icon="microsoft" >}} Microsoft Visual Studio {{< /keyword >}}
 {{< keyword >}} JetBrains IntelliJ {{< /keyword >}}
 {{< keyword icon="android" >}} Android Studio {{< /keyword >}}
-{{< /keywordList >}}
+{{< /keywordList >}}        |
