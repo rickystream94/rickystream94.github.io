@@ -5,8 +5,7 @@ cascade:
     showAuthor: false
     showZenMode: false
     showReadingTime: false
+    heroStyle: thumbAndBackground
 showPagination: false
 groupByYear: false
 ---
-
-Some text in projects list page.
