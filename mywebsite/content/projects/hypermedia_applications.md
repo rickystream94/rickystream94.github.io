@@ -6,15 +6,15 @@ featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_asset
 heroStyle: thumbAndBackground
 ---
 
-Leveraging cutting-edge technologies like HTML5, CSS3, JavaScript, PHP, AJAX, and MySQL, this project involved designing and developing a highly dynamic and responsive website.
+Leveraging cutting-edge technologies like HTML5, CSS3, JavaScript, PHP, AJAX, and MySQL, this project involved designing and developing a highly dynamic and responsive version of the official TIM website.
+[TIM (Telecom Italia Mobile)](https://www.tim.it/) is one of the leading Internet providers for mobile phones and home ADSL in Italy.
 
 Completed as the final project for the Hypermedia Applications course at Politecnico di Milano (A.Y. 2015/16).
 
-## Resources
+{{< button href="http://www.tim2016.altervista.org/" target="_blank" >}}
+Official project website
+{{< /button >}}
 
-- [Project website](http://www.tim2016.altervista.org/)
-- [TIM (Telecom Italia Mobile)](https://www.tim.it/) is one of the leading Internet providers for mobile phones and home ADSL in Italy.
-
-### Source code
+## Source code
 
 {{< github repo="rickystream94/hypermedia-project" >}}

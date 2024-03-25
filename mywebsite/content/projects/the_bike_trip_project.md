@@ -11,8 +11,6 @@ The data collection was made possible thanks to a custom Android app I developed
 
 This data became the fuel for insightful visualizations, allowing him to analyze and share the story of his journey in a whole new way.
 
-## Resources
-
-### Android app source code
+## Source code
 
 {{< github repo="rickystream94/TheBikeTripProject_AndroidApp" >}}

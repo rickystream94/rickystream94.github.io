@@ -26,7 +26,7 @@ heroStyle: "background"
 <tbody>
   <tr>
     <td rowspan="3"><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/microsoft_logo.png" class="customLogo"/></td>
-    <td rowspan="3"><a href="https://www.microsoft.com/da-dk/development" target="blank">Microsoft Development Center Copenhagen</a></td>
+    <td rowspan="3"><a href="https://www.microsoft.com/da-dk/development" target="_blank">Microsoft Development Center Copenhagen</a></td>
     <td rowspan="3">Dynamics 365 Business Central</td>
     <td>Software Engineer 2</td>
     <td>03/2022 - Present</td>
@@ -42,7 +42,7 @@ heroStyle: "background"
   </tr>
   <tr>
     <td><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/man_logo.jpeg" class="customLogo"/></td>
-    <td><a href="https://www.man-es.com/" target="blank">MAN Energy Solutions</a></td>
+    <td><a href="https://www.man-es.com/" target="_blank">MAN Energy Solutions</a></td>
     <td>PrimeServ Spare Parts</td>
     <td>Student Software Developer</td>
     <td>02/2017 - 08/2017</td>
@@ -67,14 +67,14 @@ heroStyle: "background"
 <tbody>
   <tr>
     <td><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/dtu_logo.png" class="customLogo"/></td>
-    <td><a href="https://www.dtu.dk" target="blank">Danmarks Tekniske Universitet</a></td>
+    <td><a href="https://www.dtu.dk" target="_blank">Danmarks Tekniske Universitet</a></td>
     <td>Digital Media Engineering, Data Science & Big Data</td>
     <td>08/2016 - 02/2019</td>
     <td>Copenhagen, DK</td>
   </tr>
   <tr>
     <td><img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/experience/polimi_logo.png" class="customLogo"/></td>
-    <td><a href="https://www.polimi.it/" target="blank">Politecnico di Milano</a></td>
+    <td><a href="https://www.polimi.it/" target="_blank">Politecnico di Milano</a></td>
     <td>Engineering of Computing Systems</td>
     <td>09/2013 - 07/2016</td>
     <td>Milano, IT</td>

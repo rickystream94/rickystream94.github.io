@@ -6,12 +6,8 @@ featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_asset
 heroStyle: thumbAndBackground
 ---
 
-_Council of Four_ (translated from the Italian version _Il Consiglio dei 4_) is a strategy board game published by [Cranio Creations](https://www.craniocreations.it/).
+[_Council of Four_](https://boardgamegeek.com/boardgame/173101/council-4) (translated from the Italian version _Il Consiglio dei 4_) is a strategy board game published by [Cranio Creations](https://www.craniocreations.it/).
 This online multiplayer video game was developed as the final project for the Software Engineering course at Politecnico di Milano. Students were divided into groups (including myself) to create the game, inspired by the aforementioned board game. It also served as my Bachelor's Degree final project.
-
-{{< alert icon="circle-info" >}}
-The repository with source code is currently private.
-{{< /alert >}}
 
 ## Features
 
@@ -23,7 +19,7 @@ The repository with source code is currently private.
 ## Tech stack
 
 - Java 8 SE
-- GUI: JavaFX with SceneBuilder support
+- GUI: JavaFX, SceneBuilder
 
 ## Gallery
 
@@ -36,6 +32,8 @@ The repository with source code is currently private.
   <img src="https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/waiting room.PNG" class="grid-w33" />
 {{< /gallery >}}
 
-## Resources
+## Source code
 
-- [Board game info on BoardGameGeek](https://boardgamegeek.com/boardgame/173101/council-4)
+{{< alert icon="circle-info" >}}
+The repository with source code is currently private.
+{{< /alert >}}
