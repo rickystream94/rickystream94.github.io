@@ -1,7 +1,7 @@
 ---
 title: "Council of Four: Online Multiplayer Board Game in Java :game_die:"
 date: 2016-07-15
-topics: ['Software Development', 'University']
+categories: ['Software Development', 'University']
 featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/counciloffour/cover.jpeg"
 heroStyle: thumbAndBackground
 ---

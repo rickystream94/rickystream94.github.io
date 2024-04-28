@@ -1,8 +1,8 @@
 ---
 title: "Phrasebook: A gamified approach to memorizing phrases in a foreign language"
 date: 2017-05-09
-topics: ['Mobile Development', 'University']
-featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/phrasebook_icon.png"
+categories: ['Mobile Development', 'University']
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/phrasebook/featured_image.jpeg"
 heroStyle: thumbAndBackground
 ---
 
@@ -12,7 +12,7 @@ _Phrasebook_ (recently re-branded into _My Vocabulary Booster_) is a mobile appl
 {{< icon "google" >}}  Get the app from Google Play Store
 {{< /button >}}
 
-The application has been developed as part of the final project of the [Personal Data Interaction for Mobile and Wearables](http://kurser.dtu.dk/course/2015-2016/02808) in the Technical University of Denmark, A.Y. 2016/17.
+The application has been developed as part of the final project of the [Personal Data Interaction for Mobile and Wearables](http://kurser.dtu.dk/course/2015-2016/02808) in the Technical University of Denmark, AY 2016/17.
 
 ## Project Teaser
 

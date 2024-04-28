@@ -1,8 +1,9 @@
 ---
 title: "The Bike Trip Project Android App :mobile_phone:"
 date: 2017-05-01
-topics: ['Mobile Development', 'University']
-heroStyle: background
+categories: ['Mobile Development', 'University']
+featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/bile_trip_project/featured_image.jpeg"
+heroStyle: thumbAndBackground
 ---
 
 Combining a passion for cycling with an elective course on data analysis and visualization offered by the Technical University of Denmark (DTU) in the summer of 2017, my dear friend and former university mate Angelos has founded the [_Bike Trip Project_](https://www.instagram.com/thebiketripproject).

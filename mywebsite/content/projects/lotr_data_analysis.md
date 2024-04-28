@@ -1,12 +1,12 @@
 ---
 title: "Network Analysis and Natural Language Processing on LOTR universe"
 date: 2016-12-01
-topics: ['Data Science', 'University']
+categories: ['Data Science', 'University']
 featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_assets/projects/lotr_data_analysis/frodo_wordcloud.png"
 heroStyle: thumbAndBackground
 ---
 
-Analyzing the social networks obtained from _The Lord of the Rings_ universe to study patterns and behaviors when it comes to network theory and Natural Language Processing. This work was part of the final project for the [Social Graphs & Interactions](https://kurser.dtu.dk/course/02805) course offered by the Technical University of Denmark (DTU), A.Y. 2016/17.
+Analyzing the social networks obtained from _The Lord of the Rings_ universe to study patterns and behaviors when it comes to network theory and Natural Language Processing. This work was part of the final project for the [Social Graphs & Interactions](https://kurser.dtu.dk/course/02805) course offered by the Technical University of Denmark (DTU), AY 2016/17.
 
 {{< button href="https://rickystream94.github.io/social_graphs/" target="_blank" >}}
 Official project website
