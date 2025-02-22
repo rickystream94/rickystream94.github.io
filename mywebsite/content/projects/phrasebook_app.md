@@ -6,11 +6,11 @@ featureImage: "https://richmondwebmedia.blob.core.windows.net/media/static_asset
 heroStyle: thumbAndBackground
 ---
 
-_Phrasebook_ (recently re-branded into _My Vocabulary Booster_) is a mobile application for Android devices to help people memorize foreign language vocabulary.
+{{< alert icon="circle-info" >}}
+Since October 2024, the app has been removed from the Google Play Store. I am currently working on a project to re-write Phrasebook from scratch and launch it as a web app soon in the future. Stay tuned!
+{{< /alert >}}
 
-{{< button href="https://play.google.com/store/apps/details?id=com.bobbytables.phrasebook" target="_blank" >}}
-{{< icon "google" >}}  Get the app from Google Play Store
-{{< /button >}}
+_Phrasebook_ (recently re-branded into _My Vocabulary Booster_) is a mobile application for Android devices to help people memorize foreign language vocabulary.
 
 The application has been developed as part of the final project of the [Personal Data Interaction for Mobile and Wearables](http://kurser.dtu.dk/course/2015-2016/02808) in the Technical University of Denmark, AY 2016/17.
 

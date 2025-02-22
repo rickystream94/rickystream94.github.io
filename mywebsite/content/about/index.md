@@ -73,7 +73,7 @@ Check it out below! 📹
 
 ## Beyond Coding 🚀
 
-When I'm not coding, you would most likely find me either spending time to learn something new, doing physical activity, cooking healthy meals, or listening to electronic music.
+When I'm not coding, you would most likely find me either spending time to learn something new, doing physical activity, cooking healthy meals, or listening to electronic music. I'm currently on a path to learn how to DJ, so I'm actively practicing at home (with a fairly decent entry-level home setup) and taking chances to play at small gigs.
 I consume loads of news and content about self-development, fitness, society, politics, traveling and cultures, science, technology, the environment and climate change (on a related note, I'm a big fan of [Kurzgesagt](https://kurzgesagt.org), I highly recommend checking out their [videos on YouTube](https://www.youtube.com/@kurzgesagt)).
 
 I enjoy video editing and showcasing my work on my [YouTube channel](https://www.youtube.com/@rickystream94). I'm also a passionate language learner on [Duolingo](https://www.duolingo.com/profile/rickystream94) and a proud **Google Maps Local Guide**, sharing valuable feedback and content with the community.
