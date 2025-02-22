@@ -13,7 +13,7 @@ title = "Richmond Web"
   description = "Personal website of Riccardo Cannistrà"
   copyright = "&copy; { year } Riccardo Cannistrà"
 
-[author]
+[params.author]
   name = "Riccardo Cannistrà"
   image = "img/author.jpg"
   headline = "Software Engineer on a journey to become 1% better every day. 🚀"
