@@ -8,7 +8,7 @@ heroStyle: thumbAndBackground
 
 Analyzing the social networks obtained from _The Lord of the Rings_ universe to study patterns and behaviors when it comes to network theory and Natural Language Processing. This work was part of the final project for the [Social Graphs & Interactions](https://kurser.dtu.dk/course/02805) course offered by the Technical University of Denmark (DTU), AY 2016/17.
 
-{{< button href="https://rickystream94.github.io/social_graphs/" target="_blank" >}}
+{{< button href="https://rickystream94.github.io/social-graphs-website/" target="_blank" >}}
 Official project website
 {{< /button >}}
 
@@ -23,7 +23,7 @@ Official project website
 
 ## Source code
 
-- [Jupyter Notebook](http://nbviewer.jupyter.org/github/rickystream94/rickystream94.github.io/blob/master/social_graphs/Final_Project.ipynb)
+- [Jupyter Notebook](http://nbviewer.jupyter.org/github/rickystream94/social-graphs-website/blob/master/Final_Project.ipynb)
 
 {{< alert icon="circle-info" >}}
 The repository with source code is not available anymore.
